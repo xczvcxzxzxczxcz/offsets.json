@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "last_update": "2025-01-15",
+    "roblox_version": "v638",
+    "offsets": {
+        "FakeDataModelPtr": "0x7D909F8",
+        "FakeDMToDataModel": "0x1C0",
+        "Children": "0x70",
+        "Name": "0xB0",
+        "LocalPlayer": "0x130",
+        "PlayerCharacter": "0x380",
+        "CurrentCamera": "0x4A0",
+        "Primitive": "0x148",
+        "PrimPosition": "0xE4",
+        "Health": "0x194",
+        "CamRotation": "0xF8",
+        "CamPosition": "0x11C",
+        "VisualEnginePtr": "0x79449E0",
+        "ViewMatrix": "0x120",
+        "ViewportSize": "0x2E8"
+    }
+}
